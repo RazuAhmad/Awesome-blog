@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.blog-heading-text {
+  font-size: 48px;
+  color: #2e7ad3;
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+p {
+  font-size: 16px;
+}
+
+.blog-content-area {
+  background-color: #f1f1f1;
+  padding: 14px 18px;
+}
+
+.blog-content-area p a:link {
+  color: #ff8000;
+}
+
+.blog-content-area p a:hover {
+  color: green;
+}
